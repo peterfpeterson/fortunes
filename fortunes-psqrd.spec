@@ -6,12 +6,13 @@ Group:    games
 Vendor:   Peter F. Peterson
 Packager: Peter F. Peterson <peterfpeterson@gmail.com>
 
-License:  Creative Commons
+License:       Creative Commons
 #URL
-BuildArch: noarch
+BuildArch:     noarch
 Source0:       %{name}-%{version}.tar.gz
 BuildRequires: fortune-mod
 Prefix:        /usr/share/games/fortune
+Requires:      fortune-mod
 
 %description
 
