@@ -11,7 +11,7 @@ OBJ=aristotle.dat ayn_rand.dat dumb.dat grammar_rules.dat \
 	thomas_jefferson.dat
 
 PREFIX=${DESTDIR}/usr/share/games/fortune
-VERSION=0.1
+VERSION=0.2
 TARNAME=fortunes-psqrd-${VERSION}
 
 %.dat: %

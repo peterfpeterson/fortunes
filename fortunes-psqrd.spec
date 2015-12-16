@@ -1,5 +1,5 @@
 Name:     fortunes-psqrd
-Version:  0.1
+Version:  0.2
 Release:  1%{?dist}
 Summary:  Fortunes
 Vendor:   Peter F. Peterson
