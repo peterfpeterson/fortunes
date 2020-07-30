@@ -309,3 +309,32 @@ Sign Your Work
 Craftsmen of an earlier age were proud to sign their work. You should be, too.
   - The Pragmatic Programmer
 %
+“Whenever faced with a problem, some people say `Lets use AWK.'
+  Now, they have two problems.” -- D. Tilbrook
+%
+You are trying to shoehorn your existing preconceptions of how one
+should program onto a vastly different (and older, and more internally
+consistent) model.  I suggest your time would be better spent learning
+and understanding that other model, and learn to use it properly, and
+learn what it can and cannot do, rather than infecting it with this new
+cancer out of ignorance.
+
+The notion that everything is a stream of bytes is utterly braindead.
+The notion that regexps are the solution to all problems is equally
+braindead.
+
+Just like Perl.
+
+Some people, when confronted with a problem, think “I know,
+I'll use regular expressions.”  Now they have two problems.
+
+  - Jamie Zawinski
+%
+> What's wrong with perl?
+
+It combines all the worst aspects of C and Lisp: a billion different
+sublanguages in one monolithic executable.  It combines the power of
+C with the readability of PostScript.
+
+  - Jamie Zawinski
+%
