@@ -1,10 +1,10 @@
 CONVERT=strfile
 
-SRC=aristotle ayn_rand dumb grammar_rules one_liners oxy_morons \
+SRC=aristotle ayn_rand bofh dumb grammar_rules one_liners oxy_morons \
 	philosophy physics_warnings programming proverbs quotes ruminitions \
 	scientists steven_wright thomas_jefferson
 
-OBJ=aristotle.dat ayn_rand.dat dumb.dat grammar_rules.dat \
+OBJ=aristotle.dat ayn_rand.dat bofh.dat dumb.dat grammar_rules.dat \
 	one_liners.dat oxy_morons.dat philosophy.dat \
 	physics_warnings.dat programming.dat proverbs.dat quotes.dat \
 	ruminitions.dat scientists.dat steven_wright.dat \
